@@ -1,1 +1,1 @@
-### README
+### Personal NVIM config
