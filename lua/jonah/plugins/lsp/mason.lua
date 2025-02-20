@@ -15,6 +15,8 @@ return {
 
 		-- enable mason and configure icons
 		mason.setup({
+			--[[ log_level = vim.log.levels.DEBUG, ]]
+			-- Enable debug logging
 			ui = {
 				icons = {
 					package_installed = "✓",
